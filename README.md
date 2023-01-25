@@ -1,5 +1,5 @@
 
-# COOLMART (MODESNS CLONE)
+# Epicmart (MODESNS CLONE)
 
 
 ## Table of Content
@@ -37,7 +37,7 @@ This project is a web application for E-Commerce mostly focused on the functiona
 
 ## Demo
 
-deployed link for demo:- https://coolmartz.netlify.app/
+deployed link for demo:- 
 
 
 ## Technologies
@@ -56,12 +56,10 @@ deployed link for demo:- https://coolmartz.netlify.app/
 - CSS
 ## Status
 ### Home page
-![](https://github.com/Surendrakumar878/hissing-love-5128/blob/master/hissing-love-5128/public/Screenshot%20(122).png?raw=true)
 
 ### Login & Sign up Page
-![](https://github.com/Surendrakumar878/hissing-love-5128/blob/master/hissing-love-5128/public/Screenshot%20(120).png?raw=true)
 ### Sign Up Page
-![](https://github.com/Surendrakumar878/hissing-love-5128/blob/master/hissing-love-5128/public/Screenshot%20(121).png?raw=true)
+
 <!-- ### login & Admin Page -->
 ![]()
 <!-- ### Mens Page -->
@@ -69,13 +67,10 @@ deployed link for demo:- https://coolmartz.netlify.app/
 <!-- ### Womens Page -->
 ![]()
 ### Cart Page
-![](https://github.com/Surendrakumar878/hissing-love-5128/blob/master/hissing-love-5128/public/Screenshot%20(123).png?raw=true)
 
 
 ### Search bar Page
-![](https://github.com/Surendrakumar878/hissing-love-5128/blob/master/hissing-love-5128/public/Screenshot%20(124).png?raw=true)
 ### mens Page
-![](https://github.com/Surendrakumar878/hissing-love-5128/blob/master/hissing-love-5128/public/Screenshot%20(125).png?raw=true)
 <!-- ### womens Page -->
 ![]()
 <!-- ### Baeuty Page -->
